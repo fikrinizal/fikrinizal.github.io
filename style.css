@@ -463,7 +463,7 @@
     border: 0;
 } */
 #subject {
-    width: 429px;
+    max-width: 430px;
     height: 100px;
     padding: 10px 20px;
 }
